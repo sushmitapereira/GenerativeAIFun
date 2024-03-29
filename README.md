@@ -1,0 +1,2 @@
+# GenerativeAIFun
+Testing Generative AI
